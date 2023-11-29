@@ -10,7 +10,5 @@ Pottery mini website.
 
 ## Project Authors
 - Faith Nkatha
-- 
+  
 
-## Description
-[Any notes you'd like people to know about your project]
